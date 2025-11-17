@@ -1,4 +1,7 @@
 
+Customer DOREEN FLAGG 09526-31006 states that when she called in 3 times that she was not able to speak with an agent she called from 508) 612-5270 at 12:09pm 12:15pm and 12:21PM. 
+
+----
 
 AMI_DEFAULT: 145,,No,0,202567,204027,Goto,NLMenu2040
 AMI_NIGM: 145,,No,0,202567,204026,Goto,NLMenu2040
