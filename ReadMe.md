@@ -1,5 +1,11 @@
 
+2025DM;BILL_ISSUE -> Billing Flow (IDAUTH->5060DM something-else) -> 2025DM;AGENT -> 2025DM;BILL_ISSUE -> Billing Flow (5060DM callerhangup)
+
 Customer DOREEN FLAGG 09526-31006 states that when she called in 3 times that she was not able to speak with an agent she called from 508) 612-5270 at 12:09pm 12:15pm and 12:21PM. 
+
+StartDateTime	AppName	SubAppName	SessionID	CallGUID	ANI	DNIS	Language	OpCo	Duration	CallEndType	RouteFlow	RouteKey	XferReason	AuthFlag	AcctLast4	AcctType	CallIntent	CallIntentDetail	AcctNumber
+2025-11-14 17:09:56.000	NGAIMSMain		104.156.46.42.1763140196889.119875.NGAIMSMain	8358599C1000019A22A1BC6E689C2E2A	5086125270	8003223223	en-US	MASE	333	CallerDisconnect	Billing	5060_MaxError		Confirm	*1006	Ele	Billing		NULL
+2025-11-14 17:15:44.000	NGAIMSMain	Collection	104.156.46.46.1763140544144.122011.NGAIMSMain	835DA5F41000019A187CD199689C2E2E	5086125270	8882111313	en-US	MASE	317	CallerDisconnect	Billing	5060_MaxError		Confirm	*1006	Ele	Billing		NULL
 
 ----
 
